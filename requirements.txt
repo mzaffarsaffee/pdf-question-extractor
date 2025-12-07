@@ -1,0 +1,14 @@
+# Core dependencies
+PyPDF2>=3.0.0
+pandas>=1.3.0
+openpyxl>=3.0.0
+pycryptodome>=3.15.0
+
+# PDF generation
+reportlab>=3.6.0
+
+# Optional dependencies for OCR support
+# Uncomment if you need to process image-based PDFs
+# pdf2image>=1.16.0
+# pytesseract>=0.3.10
+# Pillow>=9.0.0
